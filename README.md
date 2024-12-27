@@ -8,7 +8,7 @@ What it has:
 - postcss & postcss-cli
 - autoprefixer
 
-This is how it's setted up:
+This is how it's set up:
 
 1. use `hugo new theme` create basic theme structure.
 2. create `exampleSite` directory, `cd` to it and:
@@ -20,8 +20,8 @@ This is how it's setted up:
    - setup `tailwind.config.js`
 4. setup PostCSS following [Hugo document](https://gohugo.io/hugo-pipes/postcss/)
    - setup `postcss.config.js`
-5. setup css file
-6. setup `layout/head/css.html`
+5. set up css file
+6. set up `layout/head/css.html`
 7. start theme development
 
 To Preview ExampleSite:
