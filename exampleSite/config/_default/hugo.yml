@@ -1,0 +1,3 @@
+baseURL: https://example.org/
+title: Example Site
+theme: minimal-hugo-tailwind-theme-starter
